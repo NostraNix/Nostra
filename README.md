@@ -36,3 +36,4 @@ npm start  # ou yarn start
 ## 📜 Licence
 Ce projet est sous licence **MIT**. Vous êtes libre de l'utiliser et de le modifier. 😊
 ![Nostra Logo](https://gray-rainy-lion-245.mypinata.cloud/ipfs/bafybeibwyxxlfptow4msg5fyhsme4alff32ixxth4hhg5igd5647vaqlgy)
+![Nostra Banner](https://gray-rainy-lion-245.mypinata.cloud/ipfs/bafybeieocxfi3v4jk7axslkksk2vyrt7x5uh4jtxcb4zg52oyvtgjc4rqi)
